@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eleonoravercesi
 - 👀 I’m interested in combinatorial optimization, linear programming, machine learning, application of mathematics to genetic data.
-- 📫 How to reach me: eleonora.vercesi01@universitadipavia.it
+- 📫 How to reach me: eleonora.vercesi@usi.ch
 
 <!---
 eleonoravercesi/eleonoravercesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
